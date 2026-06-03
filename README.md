@@ -1,3 +1,7 @@
+<img width="696" height="949" alt="Python AI Chatbot" src="https://github.com/user-attachments/assets/723fb3e7-20cd-4a79-91aa-48557f9864b2" />
+
+
+
 🤖 Python AI Chatbot (Powered by Anthropic Claude)
 A modern desktop chatbot built with Python, Tkinter, and the Anthropic Claude API. It provides a simple chat UI with real-time streaming responses from Claude.
 
