@@ -1,4 +1,5 @@
-<img width="696" height="949" alt="Python AI Chatbot" src="https://github.com/user-attachments/assets/723fb3e7-20cd-4a79-91aa-48557f9864b2" />
+<img width="694" height="955" alt="Python AI Chatbot (2)" src="https://github.com/user-attachments/assets/d6e679e9-63bc-47b4-81ab-5a9916555460" />
+
 
 
 
